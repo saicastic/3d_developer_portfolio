@@ -173,6 +173,10 @@ const projects = [
         name: "blender",
         color: "pink-text-gradient",
       },
+      {
+        name: "GLSL",
+        color: "pink-text-gradient",
+      },
     ],
     image: voxelverse,
     source_code_link: "https://github.com/saicastic/voxelverse",
@@ -215,6 +219,10 @@ const projects = [
       },
       {
         name: "webGL",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "GLSL",
         color: "pink-text-gradient",
       },
     ],
