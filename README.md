@@ -12,7 +12,7 @@
 
 - React.js
 - Three.js
-- React Three Fiber
+- React ThreeFiber
 - React Three Drei
 - Email JS
 - Vite
